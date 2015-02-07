@@ -23,5 +23,6 @@ public class EvalImpl implements Eval {
 	@Override
 	public double eval(String expression) throws Exception {
 		return Parser.parse(expression).evaluate();
+		
 	}	
 }
