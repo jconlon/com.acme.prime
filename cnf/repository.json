@@ -1,0 +1,5 @@
+{
+ "revisionRefs":[{
+  "artifactId":"parsii","baseline":"1.4.0","bsn":"com.scireum__parsii","created":1417084903000,"description":"parsii is a super fast and lightweight parser and expression evaluator","groupId":"com.scireum","md5":"1AB8D5C0B1B252AAE1AC7CA6DFD00BD9","name":"parsii","phase":"MASTER","revision":"8ED84B0FE7E68A04CCDDE538E67053A66D356709","size":47529,"urls":["http://repo1.maven.org/maven2/com/scireum/parsii/1.4/parsii-1.4.jar"],"version":"1.4"
+ }]
+}
